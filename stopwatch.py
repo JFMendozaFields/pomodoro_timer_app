@@ -31,4 +31,4 @@ while value.lower() != 'q':
     #Updating the previous total time and lap number
     lasttime = time.time()
     lapnum += 1
-print("Excersice complete")
+print("Excersice complete!")

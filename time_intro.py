@@ -13,7 +13,7 @@ print(
 #creates delay of 5 seconds before printing local time
 time.sleep(5)
 print(
-    "Local Time: ", local_time
+    "Local Time now: ", local_time
 )
 
 #shows the current date and time using now attribute
